@@ -7,6 +7,8 @@ Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "one_digit_seven_segment_dis
 EndProject
 Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "two_digit_seven_segment_display", "two_digit_seven_segment_display\two_digit_seven_segment_display.cppproj", "{0FA5A5CB-DE54-488C-BE6A-9CEFEC9B73AB}"
 EndProject
+Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "8digit_seven_segment_display", "8digit_seven_segment_display\8digit_seven_segment_display.cppproj", "{D0966F58-328D-424C-BE1A-78A851EC0CCF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|AVR = Debug|AVR
@@ -21,6 +23,10 @@ Global
 		{0FA5A5CB-DE54-488C-BE6A-9CEFEC9B73AB}.Debug|AVR.Build.0 = Debug|AVR
 		{0FA5A5CB-DE54-488C-BE6A-9CEFEC9B73AB}.Release|AVR.ActiveCfg = Release|AVR
 		{0FA5A5CB-DE54-488C-BE6A-9CEFEC9B73AB}.Release|AVR.Build.0 = Release|AVR
+		{D0966F58-328D-424C-BE1A-78A851EC0CCF}.Debug|AVR.ActiveCfg = Debug|AVR
+		{D0966F58-328D-424C-BE1A-78A851EC0CCF}.Debug|AVR.Build.0 = Debug|AVR
+		{D0966F58-328D-424C-BE1A-78A851EC0CCF}.Release|AVR.ActiveCfg = Release|AVR
+		{D0966F58-328D-424C-BE1A-78A851EC0CCF}.Release|AVR.Build.0 = Release|AVR
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
