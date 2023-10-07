@@ -48,8 +48,7 @@ int main(void)
 			N = N / 10;
 			_delay_ms(7);
 			n++;
-		}
-		
+		}		
     }
 }
 
